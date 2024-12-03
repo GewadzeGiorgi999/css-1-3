@@ -1,0 +1,159 @@
+#main{
+    text-align: center;
+    color:#000000 ;
+    margin-top: 48px;
+    font-size: 72px;
+    font-weight: 700px;
+
+    
+}
+
+#text1{
+    width: 1220px;
+    height: 64px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    margin-left: 330px;
+    color:#FF8000 ;
+    
+    
+}
+
+#main2{
+    width: 681px;
+    height: 48px;font-family: Lato;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    color: #D9AE00;
+   
+}
+
+#text2{
+    width: 681px;
+    height: 145px;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 400;   
+    line-height: 28.8px;
+    text-align: left;
+    
+
+}
+
+#image1{
+    width: 696px;
+    height: 415px;
+   
+
+
+}
+
+#main3{
+    width: 681px;
+    height: 48px;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 48px;
+    margin-left: 300px;
+    color: #F44E50;
+
+
+}
+
+#text3{
+    
+    color: #8B2B2C;
+    width: 681px;
+    height: 72px;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    margin-left:163px ;
+    
+
+
+
+
+}
+
+#border1{
+    margin-top: 100px;
+    width: 1007px;
+    height: 717px;
+    background:#FFCEBE ;
+    border-style: solid;
+    border-color: #000000;
+    border-bottom:solid red;
+    border-right: solid red;
+   
+    
+    
+   
+}
+
+#image2{
+     width: 879px;
+    height: 415px;
+    margin-top: 25px;
+    margin-left: 64px;
+    
+
+}
+   
+#main4{
+    width: 696px;
+    height: 48px;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: right;
+    color: #4716E4;
+    
+}
+
+#text4{
+    width: 648px;
+    height: 174px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: right;
+  
+}
+
+#border2{
+    width: 696px;
+    height: 222px;
+    border: solid #FF5DA3;
+    background-color: #FFC1E3;
+  
+
+
+}
+
+#main5{
+    width: 696px;
+    height: 24px;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 24px;
+    margin-left: 20px;
+    color: #414651;
+
+
+}
+
+#image4{
+    width: 696px;
+    height: 415px;
+    
+    
+}
